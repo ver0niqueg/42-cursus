@@ -1,23 +1,18 @@
 # Libft
 
-![42 Logo](https://upload.wikimedia.org/wikipedia/fr/2/21/Logo_Ecole_42.png)
-
 **Libft** is a **personal C library** that reimplements some standard C library functions and provides additional utilities for string manipulation, memory management, and linked lists.  
 This project is part of the **42 School curriculum** and helps learning memory management, pointers, and structured programming in C.
 
 ---
 
 ## Table of Contents
-1. [Features](#features)
+1. [Highlights](#highlights)
 2. [Functions](#functions)
 3. [Installation](#installation)
-4. [Usage Examples](#usage-examples)
-5. [Bonus](#bonus)
-6. [Author](#author)
 
 ---
 
-## Features
+## Highlights
 
 - Reimplement standard C functions (ctype, string, memory, output)  
 - Handle dynamic memory safely  
@@ -98,6 +93,8 @@ make bonus
 make clean      # removes .o files
 make fclean     # removes .o files and libft.a
 make re         # rebuild library from scratch
+
+---
 
 vgalmich – 42 School Student
 MIT License
