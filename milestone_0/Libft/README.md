@@ -96,9 +96,9 @@ make bonus
 
 4. Clean object files:
 ```bash
-make clean      # removes .o files
-make fclean     # removes .o files and libft.a
-make re         # rebuild library from scratch
+make clean
+make fclean
+make re
 ```
 
 ---
