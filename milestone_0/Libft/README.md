@@ -1,7 +1,7 @@
 # Libft
 
-**Libft** is a **personal C library** that reimplements some standard C library functions and provides additional utilities for string manipulation, memory management, and linked lists.  
-This project is part of the **42 School curriculum** and helps learning memory management, pointers, and structured programming in C.
+**Libft** is an introduction to the basics of programming in C. It is a **personal C library** that reimplements some standard C library functions and provides additional utilities for string manipulation, memory management, and linked lists.  
+This project is part of the **42 School curriculum** and helps students to learn memory management, pointers, and structured programming in C.
 
 ---
 
@@ -104,4 +104,3 @@ make re         # rebuild library from scratch
 ---
 
 vgalmich – 42 School Student
-MIT License
