@@ -82,17 +82,24 @@ This project is part of the **42 School curriculum** and helps learning memory m
 ```bash
 git clone https://github.com/yourusername/libft.git
 cd libft
+```
 
 2. Compile the library:
+```bash
 make
+```
 
 3. Compile with bonus functions:
+```bash
 make bonus
+```
 
 4. Clean object files:
+```bash
 make clean      # removes .o files
 make fclean     # removes .o files and libft.a
 make re         # rebuild library from scratch
+```
 
 ---
 
