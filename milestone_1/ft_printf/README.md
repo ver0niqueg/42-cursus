@@ -7,8 +7,9 @@ It allows formatted output in the terminal and helps understand the following co
 
 ## Table of Contents
 1. [Highlights](#highlights)
-2. [Functions](#functions)
-3. [Installation](#installation)
+2. [Conversions](#conversions)
+3. [Definitions](#definitions)
+4. [Installation](#installation)
 
 ---
 
@@ -33,6 +34,13 @@ It allows formatted output in the terminal and helps understand the following co
 | `%X`      | Hexadecimal (uppercase)      |
 | `%%`      | Prints a `%` character       |
 
+## Definitions
+
+| Term | Description |
+|------|-------------|
+| **Variadic function** | A function that accepts a variable number of arguments (`...`) |
+| **Format specifier** | A placeholder in the format string (e.g., `%d`) |
+| **Dynamic memory** | Memory allocated at runtime using `malloc`, which must be freed by the programmer. |
 
 ## Installation
 
