@@ -21,17 +21,18 @@ It allows formatted output in the terminal and helps students understand variadi
 
 ## Conversions
 
-Specifier	Description
+| Specifier | Description                  |
+|-----------|------------------------------|
+| `%c`      | Character                    |
+| `%s`      | String                       |
+| `%p`      | Pointer                      |
+| `%d`      | Decimal integer              |
+| `%i`      | Integer                      |
+| `%u`      | Unsigned integer             |
+| `%x`      | Hexadecimal (lowercase)      |
+| `%X`      | Hexadecimal (uppercase)      |
+| `%%`      | Prints a `%` character       |
 
-%c	        Character
-%s	        String
-%p	        Pointer
-%d	        Decimal integer
-%i	        Integer
-%u	        Unsigned integer
-%x	        Hexadecimal (lowercase)
-%X	        Hexadecimal (uppercase)
-%%	        Prints a % character
 
 ## Installation
 
@@ -55,3 +56,4 @@ make re
 ```
 
 ---
+vgalmich – 42 School Student
